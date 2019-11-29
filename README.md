@@ -1,7 +1,7 @@
-# Voron 1.6.2
+# Project Fork
 
-![Voron 1.5](http://vorondesign.com/images/voron1.6.jpg)
+Project Fork is a Medium Format, Fully Enclosed FDM Printer.
 
-The official release of the Voron 1.6.2 3d printer.  You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron1.6) website.  The recommended size for this printer is 230mm^3.
+Coming Soon
 
-![VORON Design](http://vorondesign.com/images/voron_design_logo.png)
+Our discord server can be found here: https://discord.gg/MzTR3zE
