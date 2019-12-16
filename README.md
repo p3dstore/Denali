@@ -1,6 +1,6 @@
-# Project Fork
+# Project Denali
 
-Project Fork is a Medium Format, Fully Enclosed FDM Printer.
+Project Denali is a Medium Format, Fully Enclosed FDM Printer.
 
 Coming Soon
 
