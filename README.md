@@ -25,7 +25,7 @@ This printer features the following:
  - 6mm Belts on XY, 1204 Ballscrews on Z
  - Minimal Printed Parts
  - Designed to be Printed with ABS and/or Filled Nylons
- - 32 bit controller standard, Bigtree Tech SKR + TMC2209 Drivers
+- 32 bit controller standard, Dual Bigtree Tech SKRs + TMC2209 Drivers or Single FYSETC S6 + TMC2209 Drivers
  - 24V Power Standard
  - AC Mains Bed with Thermal Cutoff Fusing
  - Powered by Klipper: https://github.com/KevinOConnor/klipper/
