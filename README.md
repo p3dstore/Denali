@@ -5,7 +5,7 @@ This can be considered a fork of both the VORON1 and VORON2 Projects, with basic
 
 The main goal was to reduce complexity, while providing a fast reliable and ultimately simpler printer.
 
-It is not in any way affiliated with VORON Design and is a FORK of the V2 gantry, with some rethought parts with a custom Z, enclosure and electronics bay, from an ex-engineering member.
+It is not in any way affiliated with VORON Design and is a FORK of the V2 gantry, with some rethought parts, and a custom Z, enclosure and electronics bay, from an ex-engineering member.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
