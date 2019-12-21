@@ -5,7 +5,7 @@ This can be considered a fork of both the VORON1 and VORON2 Projects, with basic
 
 The main goal was to reduce complexity, while providing a fast reliable and ultimately simpler printer.
 
-It is not in any way affiliated with VORON Design and is entirely a scratch design from a few of its engineering/ex-engineering members.
+It is not in any way affiliated with VORON Design and is mostly scratch design (sans the front idlers on the XY) from an ex-engineering member.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
