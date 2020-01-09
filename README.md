@@ -1,4 +1,4 @@
-# Denali - Alpha 1
+# Denali - Alpha 2
 Project Denali is a CoreXY, Moving Bed, Medium Size, Bowden Drive, FDM Printer
 
 This can be considered a fork of both the VORON1 and VORON2 Projects, and is a FORK of the V2 gantry, with some rethought parts, and with a brand new kinematic ballscrew driven bed leveling system, enclosure and electronics bay.
