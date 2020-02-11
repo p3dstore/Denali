@@ -11,7 +11,6 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 
 BOM/Sourcing Guide for a 250x250x200 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 Frame Calculator: https://docs.google.com/spreadsheets/d/17bdA1itJfFXpg5xXoUhM7PC9FFtjTBpXj1FjgBG_8xA/edit?usp=sharing
-Printed Parts Checklist: https://docs.google.com/spreadsheets/d/1PEcIRAtjMIxAH8qYjUcobyAEHrXURd25OYMSyDGCPbQ/edit?usp=sharing
 
 This printer features the following:
  - Fully Enclosed Design
