@@ -7,3 +7,7 @@ Magnets used: https://smile.amazon.com/gp/product/B077BWCC8D/ref=ppx_yo_dt_b_asi
 - Mounts are VHB taped to the panels. 
 - Tolerances are for PLA, and magnets are a friction fit. If they fall out it doesn't matter since once it is on the panels the panel will stop the magnet from sliding out. 
 - A panel rest or something for the panel to sit on at the bottom may be necessary to stop the whole panel from sliding down. If you superglue the magnet frame inserts into the 2020 extrusion, it may not be needed. 
+
+![Magnet Mounts 1](https://github.com/p3dstore/Denali/blob/mods/User_Mods/IamPerrine/Magnetic_quick_release_panel_mounts/image1.jpg)
+![Magnet Mounts 2](https://github.com/p3dstore/Denali/blob/mods/User_Mods/IamPerrine/Magnetic_quick_release_panel_mounts/image2.jpg)
+![Magnet Mounts 2020 close up](https://github.com/p3dstore/Denali/blob/mods/User_Mods/IamPerrine/Magnetic_quick_release_panel_mounts/image3.jpg)
